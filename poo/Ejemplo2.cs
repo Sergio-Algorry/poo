@@ -30,11 +30,11 @@
             Console.WriteLine($"Dentro del método después de modificar: {numero}");
         }
 
-        public void Referencia(Pepe dummy)
+        public void Referencia(Pepe aDummy)
         {
-            Console.WriteLine($"Dentro del método: {dummy.Nombre}");
-            dummy.Nombre = "José";
-            Console.WriteLine($"Dentro del método después de modificar: {dummy.Nombre}");
+            Console.WriteLine($"Dentro del método: {aDummy.Nombre}");
+            aDummy.Nombre = "José";
+            Console.WriteLine($"Dentro del método después de modificar: {aDummy.Nombre}");
         }
     }
 
