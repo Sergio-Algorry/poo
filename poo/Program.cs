@@ -15,5 +15,7 @@
 //Buscador = ej5.EjecutarBuscarPersona(TipoBusqueda.BaseDatos);
 //Buscador.ObtenerPersona(); // desde la clase PersonaBD
 
-Ejemplo6 ej6 = new Ejemplo6();
+//Ejemplo6 ej6 = new Ejemplo6();
+
+Ejemplo7 ej7 = new Ejemplo7();
 
