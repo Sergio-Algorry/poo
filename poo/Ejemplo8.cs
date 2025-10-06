@@ -45,15 +45,15 @@ namespace poo
             //Util.Imprimir(
             //    $"Primer elemento del arreglo numeros: {utilInt.PrimerElemntoOValorPorDefecto(numeros)}");
 
-            UtilidadesArreglos<string> utilString = new UtilidadesArreglos<String>();
+            //UtilidadesArreglos<string> utilString = new UtilidadesArreglos<String>();
             //if (utilString.PrimerElemntoOValorPorDefecto(nombres) == null)
             //{ 
             //    Util.Imprimir("El primer elemento del arreglo string es null"); 
             //}
             //else
             //{
-                Util.Imprimir(
-                $"Primer elemento del arreglo string: {utilString.PrimerElemntoOValorPorDefecto(nombres)}");
+                //Util.Imprimir(
+                //$"Primer elemento del arreglo string: {utilString.PrimerElemntoOValorPorDefecto(nombres)}");
             //}
             //UtilidadesArreglos<DateTime> utilFecha = new();
             //Util.Imprimir(
