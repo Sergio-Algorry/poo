@@ -83,6 +83,7 @@ namespace poo
         public string Cod { get; set; }
         public string Nombre { get; set; }
         public string ClaveTel { get; set; }
+        public int Habitantes { get; set; }
 
         public override string ToString()
         {
